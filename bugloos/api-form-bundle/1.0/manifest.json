@@ -1,0 +1,6 @@
+{
+  "bundles": {
+    "Bugloos\\ApiFormBundle\\BugloosApiFormBundle": ["all"]
+  },
+  "aliases": ["bugllos-api-form"]
+}
