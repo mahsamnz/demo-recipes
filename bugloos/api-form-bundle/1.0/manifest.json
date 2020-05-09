@@ -2,5 +2,8 @@
   "bundles": {
     "Bugloos\\ApiFormBundle\\BugloosApiFormBundle": ["all"]
   },
+  "composer-scripts": {
+    "make:migration": "symfony-cmd"
+  },
   "aliases": ["bugloos-apiform", "bugloosapiform"]
 }
