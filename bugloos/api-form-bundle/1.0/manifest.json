@@ -3,7 +3,7 @@
     "Bugloos\\ApiFormBundle\\BugloosApiFormBundle": ["all"]
   },
   "copy-from-recipe": {
-    "config/routes/bugloos-api-form.yaml": "%CONFIG_DIR%/routes/bugloos-api-form.yaml"
+    "config/routes/": "%CONFIG_DIR%/routes/"
   },
   "composer-scripts": {
     "make:migration": "symfony-cmd"
