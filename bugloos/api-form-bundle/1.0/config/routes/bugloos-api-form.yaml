@@ -1,0 +1,3 @@
+_bugloos_api_form_contact_message:
+  resource: '@BugloosApiFormBundle/Resources/config/routes.yaml'
+  prefix: /api/contact-message
