@@ -1,6 +1,2 @@
-<bg=green;fg=white>                                     </>
-<bg=yellow;fg=white>                                     </>
-<bg=yellow;fg=white>             I did it!             </>
-<bg=yellow;fg=white>       Our flex server works        </>
-<bg=yellow;fg=white>                                     </>
-<bg=green;fg=white>                                     </>
+<bg=yellow;fg=white> Bundle installed successfully for test you should change DATABASE_URL value in phpunit.xml.dist
+then run  ./vendor/bin/simple-phpunit </>
